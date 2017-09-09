@@ -5,12 +5,27 @@ namespace Redoubt.Core.ViewModels
 {
     public class MainMenuViewModel : MvxViewModel
     {
-        public ICommand NavigateCreateBill
+        public ICommand NavBack
         {
             get
             {
-                return new MvxCommand(() =>
-                    ShowViewModel<BillViewModel>(new { subTotal = 40 }));
+                return new MvxCommand(() => Close(this));
+            }
+        }
+
+        public ICommand NavigateNewGame
+        {
+            get
+            {
+                return new MvxCommand(() => ShowViewModel<HomeViewModel>());
+            }
+        }
+
+        public ICommand NavigateLoadGame
+        {
+            get
+            {
+                return new MvxCommand(() => ShowViewModel<HomeViewModel>());
             }
         }
     }

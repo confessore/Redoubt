@@ -1,15 +1,31 @@
-Redoubt.UI.Droid.Views.BillView, Redoubt.UI.Droid;md5ce8cc6688a0e16b01fbd5c2909330356.BillView
-Redoubt.UI.Droid.Views.BillView, Redoubt.UI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce8cc6688a0e16b01fbd5c2909330356.BillView
-Redoubt.UI.Droid.Views.BillView;md5ce8cc6688a0e16b01fbd5c2909330356.BillView
-redoubt.ui.droid.views.BillView;md5ce8cc6688a0e16b01fbd5c2909330356.BillView
+Redoubt.UI.Droid.Views.HomeView, Redoubt.UI.Droid;md5ce8cc6688a0e16b01fbd5c2909330356.HomeView
+Redoubt.UI.Droid.Views.HomeView, Redoubt.UI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce8cc6688a0e16b01fbd5c2909330356.HomeView
+Redoubt.UI.Droid.Views.HomeView;md5ce8cc6688a0e16b01fbd5c2909330356.HomeView
+redoubt.ui.droid.views.HomeView;md5ce8cc6688a0e16b01fbd5c2909330356.HomeView
+Redoubt.UI.Droid.Views.InventoryView, Redoubt.UI.Droid;md5ce8cc6688a0e16b01fbd5c2909330356.InventoryView
+Redoubt.UI.Droid.Views.InventoryView, Redoubt.UI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce8cc6688a0e16b01fbd5c2909330356.InventoryView
+Redoubt.UI.Droid.Views.InventoryView;md5ce8cc6688a0e16b01fbd5c2909330356.InventoryView
+redoubt.ui.droid.views.InventoryView;md5ce8cc6688a0e16b01fbd5c2909330356.InventoryView
 Redoubt.UI.Droid.Views.MainMenuView, Redoubt.UI.Droid;md5ce8cc6688a0e16b01fbd5c2909330356.MainMenuView
 Redoubt.UI.Droid.Views.MainMenuView, Redoubt.UI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce8cc6688a0e16b01fbd5c2909330356.MainMenuView
 Redoubt.UI.Droid.Views.MainMenuView;md5ce8cc6688a0e16b01fbd5c2909330356.MainMenuView
 redoubt.ui.droid.views.MainMenuView;md5ce8cc6688a0e16b01fbd5c2909330356.MainMenuView
+Redoubt.UI.Droid.Views.ShopView, Redoubt.UI.Droid;md5ce8cc6688a0e16b01fbd5c2909330356.ShopView
+Redoubt.UI.Droid.Views.ShopView, Redoubt.UI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce8cc6688a0e16b01fbd5c2909330356.ShopView
+Redoubt.UI.Droid.Views.ShopView;md5ce8cc6688a0e16b01fbd5c2909330356.ShopView
+redoubt.ui.droid.views.ShopView;md5ce8cc6688a0e16b01fbd5c2909330356.ShopView
 Redoubt.UI.Droid.Views.SplashScreenView, Redoubt.UI.Droid;md5ce8cc6688a0e16b01fbd5c2909330356.SplashScreenView
 Redoubt.UI.Droid.Views.SplashScreenView, Redoubt.UI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce8cc6688a0e16b01fbd5c2909330356.SplashScreenView
 Redoubt.UI.Droid.Views.SplashScreenView;md5ce8cc6688a0e16b01fbd5c2909330356.SplashScreenView
 redoubt.ui.droid.views.SplashScreenView;md5ce8cc6688a0e16b01fbd5c2909330356.SplashScreenView
+Redoubt.UI.Droid.Views.ExploreView, Redoubt.UI.Droid;md5ce8cc6688a0e16b01fbd5c2909330356.ExploreView
+Redoubt.UI.Droid.Views.ExploreView, Redoubt.UI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce8cc6688a0e16b01fbd5c2909330356.ExploreView
+Redoubt.UI.Droid.Views.ExploreView;md5ce8cc6688a0e16b01fbd5c2909330356.ExploreView
+redoubt.ui.droid.views.ExploreView;md5ce8cc6688a0e16b01fbd5c2909330356.ExploreView
+Redoubt.UI.Droid.Views.StatsView, Redoubt.UI.Droid;md5ce8cc6688a0e16b01fbd5c2909330356.StatsView
+Redoubt.UI.Droid.Views.StatsView, Redoubt.UI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce8cc6688a0e16b01fbd5c2909330356.StatsView
+Redoubt.UI.Droid.Views.StatsView;md5ce8cc6688a0e16b01fbd5c2909330356.StatsView
+redoubt.ui.droid.views.StatsView;md5ce8cc6688a0e16b01fbd5c2909330356.StatsView
 MvvmCross.Binding.Droid.Views.MvxContextWrapper, MvvmCross.Binding.Droid;md5f01635529583fb899ec3b27570b8c484.MvxContextWrapper
 MvvmCross.Binding.Droid.Views.MvxContextWrapper, MvvmCross.Binding.Droid, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;md5f01635529583fb899ec3b27570b8c484.MvxContextWrapper
 MvvmCross.Binding.Droid.Views.MvxContextWrapper;md5f01635529583fb899ec3b27570b8c484.MvxContextWrapper

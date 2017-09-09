@@ -92,6 +92,24 @@ namespace Redoubt.UI.Droid
 			// aapt resource value: 0x7f030001
 			public const int MvxBindingTagUnique = 2130903041;
 			
+			// aapt resource value: 0x7f030002
+			public const int explore = 2130903042;
+			
+			// aapt resource value: 0x7f030004
+			public const int inventory = 2130903044;
+			
+			// aapt resource value: 0x7f030007
+			public const int load_game = 2130903047;
+			
+			// aapt resource value: 0x7f030006
+			public const int new_game = 2130903046;
+			
+			// aapt resource value: 0x7f030003
+			public const int shop = 2130903043;
+			
+			// aapt resource value: 0x7f030005
+			public const int stats = 2130903045;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -106,13 +124,25 @@ namespace Redoubt.UI.Droid
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int View_Bill = 2130837504;
+			public const int View_Explore = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int View_MainMenu = 2130837505;
+			public const int View_Home = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int View_SplashScreen = 2130837506;
+			public const int View_Inventory = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int View_MainMenu = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int View_Shop = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int View_SplashScreen = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int View_Stats = 2130837510;
 			
 			static Layout()
 			{
