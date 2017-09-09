@@ -98,14 +98,8 @@ namespace Redoubt.UI.Droid
 			// aapt resource value: 0x7f030004
 			public const int inventory = 2130903044;
 			
-			// aapt resource value: 0x7f030008
-			public const int load_game = 2130903048;
-			
 			// aapt resource value: 0x7f030006
 			public const int login = 2130903046;
-			
-			// aapt resource value: 0x7f030007
-			public const int new_game = 2130903047;
 			
 			// aapt resource value: 0x7f030003
 			public const int shop = 2130903043;
