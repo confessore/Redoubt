@@ -5,7 +5,7 @@
   <xs:import schemaLocation="schemas.android.com.tools.xsd" namespace="http://schemas.android.com/tools" />
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>9/9/2017 8:53:39 PM</xs:documentation>
+    <xs:documentation>9/9/2017 9:04:43 PM</xs:documentation>
   </xs:annotation>
   <xs:group name="any-view">
     <xs:choice>
@@ -82,20 +82,20 @@
       <xs:element ref="HorizontalScrollView" />
       <xs:element ref="SearchView" />
       <xs:element ref="fragment" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxTableLayout" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxFrameLayout" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxRelativeLayout" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxTimePicker" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxImageView" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxListView" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxLinearLayout" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxSpinner" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxRadioGroup" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxAutoCompleteTextView" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxGridView" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxDatePicker" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxFrameControl" />
-      <xs:element ref="mvvmcross.binding.droid.views.MvxExpandableListView" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxTableLayout" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxFrameLayout" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxRelativeLayout" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxTimePicker" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxImageView" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxListView" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxLinearLayout" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxSpinner" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxRadioGroup" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxAutoCompleteTextView" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxGridView" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxDatePicker" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxFrameControl" />
+      <xs:element ref="MvvmCross.Binding.Droid.Views.MvxExpandableListView" />
       <xs:element ref="include" />
     </xs:choice>
   </xs:group>
@@ -1402,12 +1402,12 @@
     <xs:attribute ref="android:layout_marginEnd" />
     <xs:attribute ref="android:style" />
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxTableLayout" type="mvvmcross.binding.droid.views.MvxTableLayout">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxTableLayout" type="MvvmCross.Binding.Droid.Views.MvxTableLayout">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxTableLayout</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxTableLayout">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxTableLayout">
     <xs:complexContent mixed="false">
       <xs:extension base="TableLayout">
         <xs:attribute ref="android:pointerIcon" />
@@ -1415,12 +1415,12 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxFrameLayout" type="mvvmcross.binding.droid.views.MvxFrameLayout">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxFrameLayout" type="MvvmCross.Binding.Droid.Views.MvxFrameLayout">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxFrameLayout</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxFrameLayout">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxFrameLayout">
     <xs:complexContent mixed="false">
       <xs:extension base="FrameLayout">
         <xs:attribute ref="android:pointerIcon" />
@@ -1428,12 +1428,12 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxRelativeLayout" type="mvvmcross.binding.droid.views.MvxRelativeLayout">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxRelativeLayout" type="MvvmCross.Binding.Droid.Views.MvxRelativeLayout">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxRelativeLayout</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxRelativeLayout">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxRelativeLayout">
     <xs:complexContent mixed="false">
       <xs:extension base="RelativeLayout">
         <xs:attribute ref="android:pointerIcon" />
@@ -1441,12 +1441,12 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxTimePicker" type="mvvmcross.binding.droid.views.MvxTimePicker">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxTimePicker" type="MvvmCross.Binding.Droid.Views.MvxTimePicker">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxTimePicker</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxTimePicker">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxTimePicker">
     <xs:complexContent mixed="false">
       <xs:extension base="TimePicker">
         <xs:attribute ref="android:pointerIcon" />
@@ -1454,24 +1454,24 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxImageView" type="mvvmcross.binding.droid.views.MvxImageView">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxImageView" type="MvvmCross.Binding.Droid.Views.MvxImageView">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxImageView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxImageView">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxImageView">
     <xs:complexContent mixed="false">
       <xs:extension base="ImageView">
         <xs:attribute ref="app:MvxSource" />
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxListView" type="mvvmcross.binding.droid.views.MvxListView">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxListView" type="MvvmCross.Binding.Droid.Views.MvxListView">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxListView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxListView">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxListView">
     <xs:complexContent mixed="false">
       <xs:extension base="ListView">
         <xs:attribute ref="app:MvxItemTemplate" />
@@ -1479,12 +1479,12 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxLinearLayout" type="mvvmcross.binding.droid.views.MvxLinearLayout">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxLinearLayout" type="MvvmCross.Binding.Droid.Views.MvxLinearLayout">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxLinearLayout</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxLinearLayout">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxLinearLayout">
     <xs:complexContent mixed="false">
       <xs:extension base="LinearLayout">
         <xs:attribute ref="android:pointerIcon" />
@@ -1492,12 +1492,12 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxSpinner" type="mvvmcross.binding.droid.views.MvxSpinner">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxSpinner" type="MvvmCross.Binding.Droid.Views.MvxSpinner">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxSpinner</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxSpinner">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxSpinner">
     <xs:complexContent mixed="false">
       <xs:extension base="Spinner">
         <xs:attribute ref="android:pointerIcon" />
@@ -1505,12 +1505,12 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxRadioGroup" type="mvvmcross.binding.droid.views.MvxRadioGroup">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxRadioGroup" type="MvvmCross.Binding.Droid.Views.MvxRadioGroup">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxRadioGroup</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxRadioGroup">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxRadioGroup">
     <xs:complexContent mixed="false">
       <xs:extension base="RadioGroup">
         <xs:attribute ref="android:pointerIcon" />
@@ -1518,12 +1518,12 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxAutoCompleteTextView" type="mvvmcross.binding.droid.views.MvxAutoCompleteTextView">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxAutoCompleteTextView" type="MvvmCross.Binding.Droid.Views.MvxAutoCompleteTextView">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxAutoCompleteTextView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxAutoCompleteTextView">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxAutoCompleteTextView">
     <xs:complexContent mixed="false">
       <xs:extension base="AutoCompleteTextView">
         <xs:attribute ref="android:popupTheme" />
@@ -1534,12 +1534,12 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxGridView" type="mvvmcross.binding.droid.views.MvxGridView">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxGridView" type="MvvmCross.Binding.Droid.Views.MvxGridView">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxGridView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxGridView">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxGridView">
     <xs:complexContent mixed="false">
       <xs:extension base="GridView">
         <xs:attribute ref="android:pointerIcon" />
@@ -1547,12 +1547,12 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxDatePicker" type="mvvmcross.binding.droid.views.MvxDatePicker">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxDatePicker" type="MvvmCross.Binding.Droid.Views.MvxDatePicker">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxDatePicker</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxDatePicker">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxDatePicker">
     <xs:complexContent mixed="false">
       <xs:extension base="DatePicker">
         <xs:attribute ref="android:pointerIcon" />
@@ -1560,12 +1560,12 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxFrameControl" type="mvvmcross.binding.droid.views.MvxFrameControl">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxFrameControl" type="MvvmCross.Binding.Droid.Views.MvxFrameControl">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxFrameControl</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxFrameControl">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxFrameControl">
     <xs:complexContent mixed="false">
       <xs:extension base="FrameLayout">
         <xs:attribute ref="android:pointerIcon" />
@@ -1573,12 +1573,12 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="mvvmcross.binding.droid.views.MvxExpandableListView" type="mvvmcross.binding.droid.views.MvxExpandableListView">
+  <xs:element name="MvvmCross.Binding.Droid.Views.MvxExpandableListView" type="MvvmCross.Binding.Droid.Views.MvxExpandableListView">
     <xs:annotation>
       <xs:documentation>Runtime Type: MvvmCross.Binding.Droid.Views.MvxExpandableListView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="mvvmcross.binding.droid.views.MvxExpandableListView">
+  <xs:complexType name="MvvmCross.Binding.Droid.Views.MvxExpandableListView">
     <xs:complexContent mixed="false">
       <xs:extension base="ExpandableListView">
         <xs:attribute ref="app:MvxGroupItemTemplate" />
