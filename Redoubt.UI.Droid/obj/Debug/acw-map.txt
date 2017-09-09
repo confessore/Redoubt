@@ -6,6 +6,10 @@ Redoubt.UI.Droid.Views.InventoryView, Redoubt.UI.Droid;md5ce8cc6688a0e16b01fbd5c
 Redoubt.UI.Droid.Views.InventoryView, Redoubt.UI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce8cc6688a0e16b01fbd5c2909330356.InventoryView
 Redoubt.UI.Droid.Views.InventoryView;md5ce8cc6688a0e16b01fbd5c2909330356.InventoryView
 redoubt.ui.droid.views.InventoryView;md5ce8cc6688a0e16b01fbd5c2909330356.InventoryView
+Redoubt.UI.Droid.Views.LoginView, Redoubt.UI.Droid;md5ce8cc6688a0e16b01fbd5c2909330356.LoginView
+Redoubt.UI.Droid.Views.LoginView, Redoubt.UI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce8cc6688a0e16b01fbd5c2909330356.LoginView
+Redoubt.UI.Droid.Views.LoginView;md5ce8cc6688a0e16b01fbd5c2909330356.LoginView
+redoubt.ui.droid.views.LoginView;md5ce8cc6688a0e16b01fbd5c2909330356.LoginView
 Redoubt.UI.Droid.Views.MainMenuView, Redoubt.UI.Droid;md5ce8cc6688a0e16b01fbd5c2909330356.MainMenuView
 Redoubt.UI.Droid.Views.MainMenuView, Redoubt.UI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce8cc6688a0e16b01fbd5c2909330356.MainMenuView
 Redoubt.UI.Droid.Views.MainMenuView;md5ce8cc6688a0e16b01fbd5c2909330356.MainMenuView

@@ -51,3 +51,4 @@ C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\vi
 C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_shop.xml
 C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_inventory.xml
 C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_stats.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_login.xml

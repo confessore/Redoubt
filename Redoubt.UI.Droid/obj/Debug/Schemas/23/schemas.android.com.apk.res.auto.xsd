@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>9/9/2017 5:31:25 PM</xs:documentation>
+    <xs:documentation>9/9/2017 6:10:27 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="MvxDropDownItemTemplate">
     <xs:annotation>

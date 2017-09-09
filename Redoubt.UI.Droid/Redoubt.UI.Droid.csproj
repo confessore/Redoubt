@@ -81,6 +81,7 @@
     <Compile Include="Setup.cs" />
     <Compile Include="Views\HomeView.cs" />
     <Compile Include="Views\InventoryView.cs" />
+    <Compile Include="Views\LoginView.cs" />
     <Compile Include="Views\MainMenuView.cs" />
     <Compile Include="Views\ShopView.cs" />
     <Compile Include="Views\SplashScreenView.cs" />
@@ -109,6 +110,9 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\View_Stats.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\View_Login.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

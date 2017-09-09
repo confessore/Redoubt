@@ -71,8 +71,9 @@ containing a value of this type.
         public static final int MvxBindingTagUnique=0x7f030001;
         public static final int explore=0x7f030002;
         public static final int inventory=0x7f030004;
-        public static final int load_game=0x7f030007;
-        public static final int new_game=0x7f030006;
+        public static final int load_game=0x7f030008;
+        public static final int login=0x7f030006;
+        public static final int new_game=0x7f030007;
         public static final int shop=0x7f030003;
         public static final int stats=0x7f030005;
     }
@@ -80,10 +81,11 @@ containing a value of this type.
         public static final int view_explore=0x7f020000;
         public static final int view_home=0x7f020001;
         public static final int view_inventory=0x7f020002;
-        public static final int view_mainmenu=0x7f020003;
-        public static final int view_shop=0x7f020004;
-        public static final int view_splashscreen=0x7f020005;
-        public static final int view_stats=0x7f020006;
+        public static final int view_login=0x7f020003;
+        public static final int view_mainmenu=0x7f020004;
+        public static final int view_shop=0x7f020005;
+        public static final int view_splashscreen=0x7f020006;
+        public static final int view_stats=0x7f020007;
     }
     public static final class string {
         public static final int app_name=0x7f040000;

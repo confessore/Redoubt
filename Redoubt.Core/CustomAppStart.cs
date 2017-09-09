@@ -7,7 +7,7 @@ namespace Redoubt.Core
     {
         public void Start(object hint = null)
         {
-            ShowViewModel<MainMenuViewModel>();
+            ShowViewModel<LoginViewModel>();
         }
     }
 }

@@ -98,11 +98,14 @@ namespace Redoubt.UI.Droid
 			// aapt resource value: 0x7f030004
 			public const int inventory = 2130903044;
 			
-			// aapt resource value: 0x7f030007
-			public const int load_game = 2130903047;
+			// aapt resource value: 0x7f030008
+			public const int load_game = 2130903048;
 			
 			// aapt resource value: 0x7f030006
-			public const int new_game = 2130903046;
+			public const int login = 2130903046;
+			
+			// aapt resource value: 0x7f030007
+			public const int new_game = 2130903047;
 			
 			// aapt resource value: 0x7f030003
 			public const int shop = 2130903043;
@@ -133,16 +136,19 @@ namespace Redoubt.UI.Droid
 			public const int View_Inventory = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int View_MainMenu = 2130837507;
+			public const int View_Login = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int View_Shop = 2130837508;
+			public const int View_MainMenu = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int View_SplashScreen = 2130837509;
+			public const int View_Shop = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int View_Stats = 2130837510;
+			public const int View_SplashScreen = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int View_Stats = 2130837511;
 			
 			static Layout()
 			{
