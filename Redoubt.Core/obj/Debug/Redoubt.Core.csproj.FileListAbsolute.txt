@@ -8,3 +8,13 @@ C:\Users\orfasanti\source\repos\Redoubt\Redoubt.Core\obj\Debug\Redoubt.Core.cspr
 C:\Users\orfasanti\source\repos\Redoubt\Redoubt.Core\obj\Debug\Redoubt.Core.csproj.CoreCompileInputs.cache
 C:\Users\orfasanti\source\repos\Redoubt\Redoubt.Core\obj\Debug\Redoubt.Core.dll
 C:\Users\orfasanti\source\repos\Redoubt\Redoubt.Core\obj\Debug\Redoubt.Core.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.Core\bin\Debug\Redoubt.Core.dll
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.Core\bin\Debug\Redoubt.Core.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.Core\bin\Debug\MvvmCross.Core.dll
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.Core\bin\Debug\MvvmCross.Platform.dll
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.Core\bin\Debug\MvvmCross.Core.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.Core\bin\Debug\MvvmCross.Platform.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.Core\obj\Debug\Redoubt.Core.csprojResolveAssemblyReference.cache
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.Core\obj\Debug\Redoubt.Core.csproj.CoreCompileInputs.cache
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.Core\obj\Debug\Redoubt.Core.dll
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.Core\obj\Debug\Redoubt.Core.pdb
