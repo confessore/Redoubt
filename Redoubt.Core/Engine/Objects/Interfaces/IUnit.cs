@@ -1,10 +1,12 @@
-﻿using Redoubt.Core.Engine.Objects.Types;
+﻿using Redoubt.Core.Engine.Objects.Items;
+using Redoubt.Core.Engine.Objects.Types;
+using System.Collections.Generic;
 
-namespace Redoubt.Core.Engine.Objects
+namespace Redoubt.Core.Engine.Objects.Interfaces
 {
-    public interface ISpell
+    public interface IUnit
     {
-        SpellType SpellType { get; set; }
+        UnitType UnitType { get; set; }
         string Name { get; set; }
         int Minimum { get; set; }
         int Maximum { get; set; }
@@ -15,5 +17,7 @@ namespace Redoubt.Core.Engine.Objects
         int Dexterity { get; set; }
         int Stamina { get; set; }
         int Magic { get; set; }
+        Dictionary<string, Consumable> Bag { get; set; }
+        Dictionary<string, Equippable> Inventory { get; set; }
     }
 }

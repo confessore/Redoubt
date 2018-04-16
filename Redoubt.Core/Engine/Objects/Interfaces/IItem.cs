@@ -1,6 +1,6 @@
 ﻿using Redoubt.Core.Engine.Objects.Types;
 
-namespace Redoubt.Core.Engine.Objects
+namespace Redoubt.Core.Engine.Objects.Interfaces
 {
     public interface IItem
     {

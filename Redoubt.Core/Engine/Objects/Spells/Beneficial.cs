@@ -1,4 +1,5 @@
-﻿using Redoubt.Core.Engine.Objects.Types;
+﻿using Redoubt.Core.Engine.Objects.Interfaces;
+using Redoubt.Core.Engine.Objects.Types;
 
 namespace Redoubt.Core.Engine.Objects.Spells
 {
