@@ -1,4 +1,4 @@
-﻿namespace Redoubt.Core.Engine.Objects.Types
+﻿namespace Redoubt.Core.Engine.Objects.Interfaces.Types
 {
     public enum SpellType
     {

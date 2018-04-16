@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Redoubt.Core.Engine.Objects.Databases;
+using Redoubt.Core.Engine.Objects.Interfaces.Types;
 using Redoubt.Core.Engine.Objects.Items;
-using Redoubt.Core.Engine.Objects.Types;
 using Redoubt.Core.Engine.Objects.Units;
 using System;
 using System.Collections.Generic;

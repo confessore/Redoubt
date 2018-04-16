@@ -1,4 +1,4 @@
-﻿using Redoubt.Core.Engine.Objects.Types;
+﻿using Redoubt.Core.Engine.Objects.Interfaces.Types;
 
 namespace Redoubt.Core.Engine.Objects.Interfaces
 {

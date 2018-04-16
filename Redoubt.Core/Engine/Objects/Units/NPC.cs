@@ -1,6 +1,6 @@
 ﻿using Redoubt.Core.Engine.Objects.Interfaces;
+using Redoubt.Core.Engine.Objects.Interfaces.Types;
 using Redoubt.Core.Engine.Objects.Items;
-using Redoubt.Core.Engine.Objects.Types;
 using System.Collections.Generic;
 
 namespace Redoubt.Core.Engine.Objects.Units

@@ -1,5 +1,5 @@
 ﻿using Redoubt.Core.Engine.Objects.Items;
-using Redoubt.Core.Engine.Objects.Types;
+using Redoubt.Core.Engine.Objects.Interfaces.Types;
 
 namespace Redoubt.Core.Engine.Objects.Databases
 {
