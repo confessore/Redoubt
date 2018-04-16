@@ -9,15 +9,15 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Redoubt.Core.Engine
+namespace Redoubt.Core.Engine.Modules
 {
-    public class Utilities
+    public class UtilityModule
     {
         private ConsumableDatabase ConsumableDatabase { get; }
         private EquippableDatabase EquippableDatabase { get; }
         private Player Player { get; }
 
-        public Utilities(ConsumableDatabase consumableDatabase, EquippableDatabase equippableDatabase, Player player)
+        public UtilityModule(ConsumableDatabase consumableDatabase, EquippableDatabase equippableDatabase, Player player)
         {
             ConsumableDatabase = consumableDatabase;
             EquippableDatabase = equippableDatabase;

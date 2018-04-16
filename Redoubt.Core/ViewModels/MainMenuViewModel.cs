@@ -20,7 +20,7 @@ namespace Redoubt.Core.ViewModels
             get =>
                 new MvxAsyncCommand(async () =>
                 {
-                    await App.Utilities.LoadGame();
+                    await App.UtilityModule.LoadGame();
                     ShowViewModel<HomeViewModel>();
                     Close(this);
                 });

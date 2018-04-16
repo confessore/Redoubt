@@ -1,6 +1,6 @@
 ﻿using MvvmCross.Core.ViewModels;
 using MvvmCross.Platform;
-using Redoubt.Core.Engine;
+using Redoubt.Core.Engine.Modules;
 using Redoubt.Core.Engine.Objects.Databases;
 using Redoubt.Core.Engine.Objects.Units;
 
@@ -29,11 +29,11 @@ namespace Redoubt.Core
             set => player = value;
         }
 
-        private static Utilities utilities;
-        public static Utilities Utilities
+        private static UtilityModule utilityModule;
+        public static UtilityModule UtilityModule
         {
-            get => utilities;
-            set => utilities = value;
+            get => utilityModule;
+            set => utilityModule = value;
         }
 
         public App()
@@ -41,7 +41,7 @@ namespace Redoubt.Core
             consumableDatabase = new ConsumableDatabase();
             equippableDatabase = new EquippableDatabase();
             player = new Player();
-            utilities = new Utilities(ConsumableDatabase, EquippableDatabase, Player);
+            utilityModule = new UtilityModule(ConsumableDatabase, EquippableDatabase, Player);
 
             var appStart = new CustomAppStart();
             Mvx.RegisterSingleton<IMvxAppStart>(appStart);

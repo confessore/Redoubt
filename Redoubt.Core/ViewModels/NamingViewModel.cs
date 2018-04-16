@@ -28,7 +28,7 @@ namespace Redoubt.Core.ViewModels
                 {
                     if (Name != null)
                     {
-                        await App.Utilities.NewGame(Name);
+                        await App.UtilityModule.NewGame(Name);
                         ShowViewModel<HomeViewModel>();
                     }
 
