@@ -7,26 +7,23 @@ namespace Redoubt.Core.ViewModels
     {
         public ICommand NavBack
         {
-            get
-            {
-                return new MvxCommand(() => Close(this));
-            }
+            get => new MvxCommand(() => Close(this));
         }
 
         public ICommand NavigateNewGame
         {
-            get
-            {
-                return new MvxCommand(() => ShowViewModel<HomeViewModel>());
-            }
+            get => new MvxCommand(() => ShowViewModel<NamingViewModel>());
         }
 
         public ICommand NavigateLoadGame
         {
-            get
-            {
-                return new MvxCommand(() => ShowViewModel<HomeViewModel>());
-            }
+            get =>
+                new MvxAsyncCommand(async () =>
+                {
+                    await App.Utilities.LoadGame();
+                    ShowViewModel<HomeViewModel>();
+                    Close(this);
+                });
         }
     }
 }

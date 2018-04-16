@@ -14,15 +14,15 @@ public abstract class MvxSplashScreenActivity
 			"n_onResume:()V:GetOnResumeHandler\n" +
 			"n_onPause:()V:GetOnPauseHandler\n" +
 			"";
-		mono.android.Runtime.register ("MvvmCross.Droid.Views.MvxSplashScreenActivity, MvvmCross.Droid, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null", MvxSplashScreenActivity.class, __md_methods);
+		mono.android.Runtime.register ("MvvmCross.Droid.Views.MvxSplashScreenActivity, MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", MvxSplashScreenActivity.class, __md_methods);
 	}
 
 
-	public MvxSplashScreenActivity () throws java.lang.Throwable
+	public MvxSplashScreenActivity ()
 	{
 		super ();
 		if (getClass () == MvxSplashScreenActivity.class)
-			mono.android.TypeManager.Activate ("MvvmCross.Droid.Views.MvxSplashScreenActivity, MvvmCross.Droid, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("MvvmCross.Droid.Views.MvxSplashScreenActivity, MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

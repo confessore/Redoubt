@@ -7,18 +7,12 @@ namespace Redoubt.Core.ViewModels
     {
         public ICommand NavBack
         {
-            get
-            {
-                return new MvxCommand(() => Close(this));
-            }
+            get => new MvxCommand(() => Close(this));
         }
 
         public ICommand NavigateLogin
         {
-            get
-            {
-                return new MvxCommand(() => ShowViewModel<MainMenuViewModel>());
-            }
+            get => new MvxCommand(() => ShowViewModel<MainMenuViewModel>());
         }
     }
 }

@@ -5,9 +5,7 @@ namespace Redoubt.Core
 {
     public class CustomAppStart : MvxNavigatingObject, IMvxAppStart
     {
-        public void Start(object hint = null)
-        {
-            ShowViewModel<LoginViewModel>();
-        }
+        public void Start(object hint = null) =>
+            ShowViewModel<MainMenuViewModel>();
     }
 }

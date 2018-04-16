@@ -92,26 +92,62 @@ namespace Redoubt.UI.Droid
 			// aapt resource value: 0x7f030001
 			public const int MvxBindingTagUnique = 2130903041;
 			
-			// aapt resource value: 0x7f030002
-			public const int explore = 2130903042;
-			
-			// aapt resource value: 0x7f030004
-			public const int inventory = 2130903044;
-			
-			// aapt resource value: 0x7f030008
-			public const int load_game = 2130903048;
-			
-			// aapt resource value: 0x7f030006
-			public const int login = 2130903046;
-			
-			// aapt resource value: 0x7f030007
-			public const int new_game = 2130903047;
+			// aapt resource value: 0x7f030010
+			public const int armor = 2130903056;
 			
 			// aapt resource value: 0x7f030003
-			public const int shop = 2130903043;
+			public const int attack = 2130903043;
+			
+			// aapt resource value: 0x7f030012
+			public const int dexterity = 2130903058;
+			
+			// aapt resource value: 0x7f030004
+			public const int explore = 2130903044;
+			
+			// aapt resource value: 0x7f03000e
+			public const int hitpoints = 2130903054;
+			
+			// aapt resource value: 0x7f030006
+			public const int inventory = 2130903046;
+			
+			// aapt resource value: 0x7f03000a
+			public const int load_game = 2130903050;
+			
+			// aapt resource value: 0x7f030008
+			public const int login = 2130903048;
+			
+			// aapt resource value: 0x7f030014
+			public const int magic = 2130903060;
+			
+			// aapt resource value: 0x7f03000f
+			public const int magicpoints = 2130903055;
+			
+			// aapt resource value: 0x7f03000d
+			public const int maximum = 2130903053;
+			
+			// aapt resource value: 0x7f03000c
+			public const int minimum = 2130903052;
+			
+			// aapt resource value: 0x7f030002
+			public const int name = 2130903042;
+			
+			// aapt resource value: 0x7f030009
+			public const int new_game = 2130903049;
+			
+			// aapt resource value: 0x7f03000b
+			public const int save = 2130903051;
 			
 			// aapt resource value: 0x7f030005
-			public const int stats = 2130903045;
+			public const int shop = 2130903045;
+			
+			// aapt resource value: 0x7f030013
+			public const int stamina = 2130903059;
+			
+			// aapt resource value: 0x7f030007
+			public const int stats = 2130903047;
+			
+			// aapt resource value: 0x7f030011
+			public const int strength = 2130903057;
 			
 			static Id()
 			{
@@ -142,13 +178,16 @@ namespace Redoubt.UI.Droid
 			public const int View_MainMenu = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int View_Shop = 2130837509;
+			public const int View_Naming = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int View_SplashScreen = 2130837510;
+			public const int View_Shop = 2130837510;
 			
 			// aapt resource value: 0x7f020007
-			public const int View_Stats = 2130837511;
+			public const int View_SplashScreen = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int View_Stats = 2130837512;
 			
 			static Layout()
 			{

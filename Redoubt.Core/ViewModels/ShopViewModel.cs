@@ -7,10 +7,7 @@ namespace Redoubt.Core.ViewModels
     {
         public ICommand NavBack
         {
-            get
-            {
-                return new MvxCommand(() => Close(this));
-            }
+            get => new MvxCommand(() => Close(this));
         }
     }
 }

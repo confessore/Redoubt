@@ -5,12 +5,28 @@ namespace Redoubt.Core.ViewModels
 {
     public class ExploreViewModel : MvxViewModel
     {
+        public string Name
+        {
+            private get => App.Player.Name;
+            set
+            {
+                Name = value;
+                RaisePropertyChanged(() => Name);
+            }
+        }
+
         public ICommand NavBack
         {
-            get
-            {
-                return new MvxCommand(() => Close(this));
-            }
+            get => new MvxCommand(() => Close(this));
+        }
+
+        public ICommand Attack
+        {
+            get =>
+                new MvxCommand(() =>
+                {
+
+                });
         }
     }
 }

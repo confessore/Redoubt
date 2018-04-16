@@ -1,20 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
-  <Jars></Jars>
+  <Jars />
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\lp\1\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\1\jl\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\lp\1.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

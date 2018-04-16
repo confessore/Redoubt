@@ -15,7 +15,7 @@ public class SplashScreenView
 	}
 
 
-	public SplashScreenView () throws java.lang.Throwable
+	public SplashScreenView ()
 	{
 		super ();
 		if (getClass () == SplashScreenView.class)

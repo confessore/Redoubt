@@ -1,57 +1,3 @@
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.csprojResolveAssemblyReference.cache
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.csproj.CoreCompileInputs.cache
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.dll
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.pdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.Redoubt.UI.Droid.apk
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.Redoubt.UI.Droid-Signed.apk
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.dll
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.Droid.dll
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Core.dll
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Droid.dll
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Localization.dll
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.dll
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.Droid.dll
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.Core.dll
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.Core.pdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.pdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.Droid.pdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Core.pdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Droid.pdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Localization.pdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.pdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.Droid.pdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.dll
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.pdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\android\bin\Redoubt.UI.Droid.Redoubt.UI.Droid.apk
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_login.xml
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_mainmenu.xml
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_explore.xml
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_home.xml
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_inventory.xml
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_shop.xml
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_splashscreen.xml
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_stats.xml
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\values\strings.xml
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\R.cs.flag
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\uploadflags.txt
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.Core.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.Droid.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Core.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Droid.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Localization.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.Droid.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\MvvmCross.Binding.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\MvvmCross.Binding.Droid.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\MvvmCross.Core.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\MvvmCross.Droid.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\MvvmCross.Localization.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\MvvmCross.Platform.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\MvvmCross.Platform.Droid.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\Redoubt.Core.dll.mdb
-C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\Redoubt.UI.Droid.dll.mdb
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.dll
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.pdb
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.Redoubt.UI.Droid.apk
@@ -82,6 +28,7 @@ C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Dro
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.Droid.dll.mdb
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.csprojResolveAssemblyReference.cache
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.csproj.CoreCompileInputs.cache
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.csproj.CopyComplete
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.dll
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.pdb
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\bin\Redoubt.UI.Droid.Redoubt.UI.Droid.apk
@@ -96,6 +43,39 @@ C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Dro
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\res\values\strings.xml
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\R.cs.flag
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\uploadflags.txt
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\Mono.Android.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\Mono.Android.Export.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\mscorlib.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Core.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\System.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Xml.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Net.Http.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\Mono.Security.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Mono.Android.Export.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Core.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Redoubt.UI.Droid.dll.mdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Binding.dll.mdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Binding.Droid.dll.mdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Core.dll.mdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Droid.dll.mdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Localization.dll.mdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Platform.dll.mdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Platform.Droid.dll.mdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Redoubt.Core.dll.mdb
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.dll.mdb
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\MvvmCross.Binding.dll.mdb
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\MvvmCross.Binding.Droid.dll.mdb
@@ -106,3 +86,114 @@ C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Dro
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\MvvmCross.Platform.Droid.dll.mdb
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\Redoubt.Core.dll.mdb
 C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\Redoubt.UI.Droid.dll.mdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\Microsoft.CSharp.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\Mono.Android.Export.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\System.Core.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\System.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.UI.Droid\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\orfasanti\OneDrive - University of North Florida\Redoubt\Redoubt.Core\bin\Debug\Redoubt.Core.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.Core\bin\Debug\Redoubt.Core.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.apk
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid-Signed.apk
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.Droid.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Core.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Droid.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Localization.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.Droid.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.Core.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.Core.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.Droid.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Binding.Droid.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Core.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Core.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Droid.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Droid.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Localization.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Localization.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.Droid.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\MvvmCross.Platform.Droid.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.csprojResolveAssemblyReference.cache
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.csproj.CoreCompileInputs.cache
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.csproj.CopyComplete
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\Redoubt.UI.Droid.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\android\bin\Redoubt.UI.Droid.apk
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_login.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_mainmenu.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_explore.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_home.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_inventory.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_shop.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_splashscreen.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_stats.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\layout\view_naming.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\res\values\strings.xml
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\R.cs.flag
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\uploadflags.txt
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Redoubt.UI.Droid.dll
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Mono.Android.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Mono.Android.Export.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\mscorlib.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Core.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Xml.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Net.Http.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Data.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Numerics.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Transactions.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\Mono.Security.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.IO.Compression.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Web.Services.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\bin\Debug\System.Xml.Linq.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Mono.Android.Export.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Redoubt.Core.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Core.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Microsoft.CSharp.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Data.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\Redoubt.UI.Droid.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Binding.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Binding.Droid.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Core.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Droid.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Localization.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Platform.dll.mdb
+C:\Users\orfasanti\source\repos\Redoubt\Redoubt.UI.Droid\obj\Debug\linksrc\MvvmCross.Platform.Droid.dll.mdb

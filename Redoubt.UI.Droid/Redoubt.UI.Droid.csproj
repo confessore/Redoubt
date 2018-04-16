@@ -16,8 +16,8 @@
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
-    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+    <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
+    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
@@ -29,10 +29,16 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
+    <WarningLevel>0</WarningLevel>
     <AndroidUseSharedRuntime>True</AndroidUseSharedRuntime>
     <AndroidLinkMode>None</AndroidLinkMode>
     <EmbedAssembliesIntoApk>False</EmbedAssembliesIntoApk>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <BundleAssemblies>false</BundleAssemblies>
+    <AndroidSupportedAbis />
+    <NoWarn>
+    </NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>True</DebugSymbols>
@@ -49,26 +55,29 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Android.Export" />
-    <Reference Include="MvvmCross.Binding, Version=5.1.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Binding.5.1.1\lib\MonoAndroid\MvvmCross.Binding.dll</HintPath>
+    <Reference Include="MvvmCross.Binding, Version=5.6.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Binding.5.6.3\lib\MonoAndroid\MvvmCross.Binding.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Binding.Droid, Version=5.1.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Binding.5.1.1\lib\MonoAndroid\MvvmCross.Binding.Droid.dll</HintPath>
+    <Reference Include="MvvmCross.Binding.Droid, Version=5.6.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Binding.5.6.3\lib\MonoAndroid\MvvmCross.Binding.Droid.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Core, Version=5.1.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Core.5.1.1\lib\MonoAndroid\MvvmCross.Core.dll</HintPath>
+    <Reference Include="MvvmCross.Core, Version=5.6.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Core.5.6.3\lib\MonoAndroid\MvvmCross.Core.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Droid, Version=5.1.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Core.5.1.1\lib\MonoAndroid\MvvmCross.Droid.dll</HintPath>
+    <Reference Include="MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Core.5.6.3\lib\MonoAndroid\MvvmCross.Droid.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Localization, Version=5.1.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Binding.5.1.1\lib\MonoAndroid\MvvmCross.Localization.dll</HintPath>
+    <Reference Include="MvvmCross.Localization, Version=5.6.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Binding.5.6.3\lib\MonoAndroid\MvvmCross.Localization.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Platform, Version=5.1.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Platform.5.1.1\lib\MonoAndroid\MvvmCross.Platform.dll</HintPath>
+    <Reference Include="MvvmCross.Platform, Version=5.6.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Platform.5.6.3\lib\MonoAndroid\MvvmCross.Platform.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Platform.Droid, Version=5.1.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MvvmCross.Platform.5.1.1\lib\MonoAndroid\MvvmCross.Platform.Droid.dll</HintPath>
+    <Reference Include="MvvmCross.Platform.Droid, Version=5.6.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MvvmCross.Platform.5.6.3\lib\MonoAndroid\MvvmCross.Platform.Droid.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
@@ -84,6 +93,7 @@
     <Compile Include="Views\InventoryView.cs" />
     <Compile Include="Views\LoginView.cs" />
     <Compile Include="Views\MainMenuView.cs" />
+    <Compile Include="Views\NamingView.cs" />
     <Compile Include="Views\ShopView.cs" />
     <Compile Include="Views\SplashScreenView.cs" />
     <Compile Include="Views\StatsView.cs" />
@@ -115,6 +125,9 @@
     <AndroidResource Include="Resources\layout\View_Stats.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
+    <AndroidResource Include="Resources\layout\View_Naming.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\Strings.xml" />
@@ -129,7 +142,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Redoubt.Core\Redoubt.Core.csproj">
-      <Project>{dc653354-456e-4576-8ab1-bc49841938e4}</Project>
+      <Project>{660da26e-cdd4-4714-a898-15e474f27907}</Project>
       <Name>Redoubt.Core</Name>
     </ProjectReference>
   </ItemGroup>
