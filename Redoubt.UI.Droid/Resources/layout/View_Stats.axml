@@ -12,12 +12,12 @@
         android:layout_height="wrap_content"
         local:MvxBind="Text 'Name: ' + Name" />
     <TextView
-        android:id="@+id/minimum"
-        android:text="Minimum"
+        android:id="@+id/level"
+        android:text="Level"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        local:MvxBind="Text 'Minumum: ' + Minimum" />
+        local:MvxBind="Text 'Level: ' + Level" />
     <TextView
         android:id="@+id/maximum"
         android:text="Maximum"

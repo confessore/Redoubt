@@ -18,9 +18,9 @@ namespace Redoubt.Core.ViewModels
         public ICommand NavigateLoadGame
         {
             get =>
-                new MvxAsyncCommand(async () =>
+                new MvxCommand(() =>
                 {
-                    await App.UtilityModule.LoadGame();
+                    //await App.UtilityModule.LoadGame();
                     ShowViewModel<HomeViewModel>();
                     Close(this);
                 });

@@ -1,4 +1,5 @@
 ﻿using MvvmCross.Core.ViewModels;
+using System.Collections.Generic;
 using System.Windows.Input;
 
 namespace Redoubt.Core.ViewModels
@@ -8,6 +9,11 @@ namespace Redoubt.Core.ViewModels
         public ICommand NavBack
         {
             get => new MvxCommand(() => Close(this));
+        }
+
+        public List<Item> Inventory
+        {
+            get => App.Player.Inventory;
         }
     }
 }

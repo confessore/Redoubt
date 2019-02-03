@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redoubt.UI.Droid", "Redoubt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redoubt.Core", "Redoubt.Core\Redoubt.Core.csproj", "{660DA26E-CDD4-4714-A898-15E474F27907}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redoubt", "Redoubt\Redoubt.csproj", "{75323901-791C-46C7-AB7E-D9CE6BAB594E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redoubt.Test", "Redoubt.Test\Redoubt.Test.csproj", "{B08C4D91-8F50-412A-A475-2758638CB76D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,14 @@ Global
 		{660DA26E-CDD4-4714-A898-15E474F27907}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{660DA26E-CDD4-4714-A898-15E474F27907}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{660DA26E-CDD4-4714-A898-15E474F27907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75323901-791C-46C7-AB7E-D9CE6BAB594E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75323901-791C-46C7-AB7E-D9CE6BAB594E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75323901-791C-46C7-AB7E-D9CE6BAB594E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75323901-791C-46C7-AB7E-D9CE6BAB594E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08C4D91-8F50-412A-A475-2758638CB76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08C4D91-8F50-412A-A475-2758638CB76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08C4D91-8F50-412A-A475-2758638CB76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08C4D91-8F50-412A-A475-2758638CB76D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,17 +15,17 @@ namespace Redoubt.Core.ViewModels
             }
         }
 
-        public int Minimum
+        public int Level
         {
-            private get => App.Player.Minimum;
+            private get => App.Player.Level;
             set
             {
-                Minimum = value;
-                RaisePropertyChanged(() => Minimum);
+                Level = value;
+                RaisePropertyChanged(() => Level);
             }
         }
 
-        public int Maximum
+        /*public int Maximum
         {
             private get => App.Player.Maximum;
             set
@@ -103,7 +103,7 @@ namespace Redoubt.Core.ViewModels
                 Magic = value;
                 RaisePropertyChanged(() => Magic);
             }
-        }
+        }*/
 
         public ICommand NavBack
         {
