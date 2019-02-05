@@ -18,6 +18,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         local:MvxBind="Text 'Level: ' + Level" />
+	<TextView
+        android:id="@+id/equipment"
+        android:text="Equipment"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        local:MvxBind="Text 'Equipment: ' + Equipment" />
     <TextView
         android:id="@+id/maximum"
         android:text="Maximum"

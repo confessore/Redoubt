@@ -35,6 +35,7 @@ namespace Redoubt.Core.ViewModels
                             Crit = 0,
                             Avoid = 0,
                             Mitigate = 0,
+                            Equipment = new List<KeyValuePair<Slot, Item>>(),
                             Inventory = new List<Item>()
                         };
                         for (int x = 0; x < 10; x++)

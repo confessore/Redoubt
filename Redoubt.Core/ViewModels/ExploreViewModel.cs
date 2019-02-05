@@ -5,7 +5,7 @@ namespace Redoubt.Core.ViewModels
 {
     public class ExploreViewModel : MvxViewModel
     {
-        public string Name
+        /*public string Name
         {
             private get => App.Player.Name;
             set
@@ -13,7 +13,7 @@ namespace Redoubt.Core.ViewModels
                 Name = value;
                 RaisePropertyChanged(() => Name);
             }
-        }
+        }*/
 
         public ICommand NavBack
         {

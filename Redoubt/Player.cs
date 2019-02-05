@@ -2,7 +2,7 @@
 
 namespace Redoubt
 {
-    public class Player
+    public class Player : IPlayer
     {
         public string Name { get; set; }
         public int Level { get; set; }

@@ -48,4 +48,11 @@
 				local:MvxItemTemplate="@layout/keyvaluepair"
 				local:MvxBind="ItemsSource Item.Modifiers" />
 			</LinearLayout>
+	<Button
+        android:id="@+id/equip_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="EQUIP ITEM"
+        android:textSize="40dp"
+        local:MvxBind="Click Equip" />
 	</LinearLayout>
