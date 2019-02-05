@@ -12,21 +12,7 @@ namespace Redoubt.Core.ViewModels
 {
     public class NamingViewModel : MvxViewModel
     {
-        private string name;
-        public string Name
-        {
-            get => name;
-            set
-            {
-                name = value;
-                RaisePropertyChanged(() => Name);
-            }
-        }
-
-        public ICommand NavBack
-        {
-            get => new MvxCommand(() => Close(this));
-        }
+        public ICommand NavBack { get => new MvxCommand(() => Close(this)); }
 
         public ICommand Save
         {
@@ -59,6 +45,17 @@ namespace Redoubt.Core.ViewModels
                     }
                     Close(this);
                 });
+        }
+
+        private string name;
+        public string Name
+        {
+            get => name;
+            set
+            {
+                name = value;
+                RaisePropertyChanged(() => Name);
+            }
         }
     }
 }

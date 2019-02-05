@@ -5,6 +5,8 @@ namespace Redoubt.Core.ViewModels
 {
     public class StatsViewModel : MvxViewModel
     {
+        public ICommand NavBack { get => new MvxCommand(() => Close(this)); }
+
         public string Name
         {
             private get => App.Player.Name;
@@ -104,10 +106,5 @@ namespace Redoubt.Core.ViewModels
                 RaisePropertyChanged(() => Magic);
             }
         }*/
-
-        public ICommand NavBack
-        {
-            get => new MvxCommand(() => Close(this));
-        }
     }
 }

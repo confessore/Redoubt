@@ -13,19 +13,12 @@ namespace Redoubt.Core.ViewModels
             this.nav = nav;
         }
         
-        public ICommand NavBack
-        {
-            get => new MvxCommand(() => Close(this));
-        }
+        public ICommand NavBack { get => new MvxCommand(() => Close(this)); }
+        public ICommand Inspect { get => new MvxCommand<Item>(x => nav.Navigate<InspectItemViewModel, Item>(x)); }
 
         public MvxObservableCollection<Item> Inventory
         {
             get => new MvxObservableCollection<Item>(App.Player.Inventory);
-        }
-
-        public ICommand Inspect
-        {
-            get => new MvxCommand<Item>(x => nav.Navigate<InspectItemViewModel, Item>(x));
         }
     }
 }

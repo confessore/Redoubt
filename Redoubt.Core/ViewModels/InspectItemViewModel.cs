@@ -5,12 +5,9 @@ namespace Redoubt.Core.ViewModels
 {
     public class InspectItemViewModel : MvxViewModel<Item>
     {
-        public Item Item { get; set; } = new Item();
+        public ICommand NavBack { get => new MvxCommand(() => Close(this)); }
 
-        public ICommand NavBack
-        {
-            get => new MvxCommand(() => Close(this));
-        }
+        public Item Item { get; set; } = new Item();
 
         public override void Prepare(Item item)
         {
