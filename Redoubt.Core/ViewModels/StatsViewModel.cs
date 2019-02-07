@@ -1,7 +1,6 @@
 ﻿using MvvmCross.Core.ViewModels;
-using Redoubt.Core.Statics;
+using Redoubt.Core.Dynamics;
 using System;
-using System.Linq;
 using System.Windows.Input;
 
 namespace Redoubt.Core.ViewModels

@@ -2,13 +2,10 @@
 using System;
 using System.IO;
 
-namespace Redoubt.Core.Statics
+namespace Redoubt.Core.Dynamics
 {
     public class State
     {
-        static Lazy<State> instance = new Lazy<State>(() => new State());
-        public static State Instance = instance.Value;
-
         public void Save()
         {
             var json = JsonConvert.SerializeObject(App.Player);

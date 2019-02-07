@@ -1,6 +1,7 @@
 ﻿using MvvmCross.Core.Navigation;
 using MvvmCross.Core.ViewModels;
 using MvvmCross.Plugins.Messenger;
+using Redoubt.Core.Dynamics;
 using Redoubt.Core.Messages;
 using System;
 using System.Windows.Input;
@@ -40,6 +41,7 @@ namespace Redoubt.Core.ViewModels
             Inventory.Remove(msg.Item);
             App.Player.Inventory.Remove(msg.Item);
             App.Player.Equipment.Add(msg.Item);
+            new State().Save();
         }
 
         public void Dispose()

@@ -1,5 +1,5 @@
 ﻿using MvvmCross.Core.ViewModels;
-using Redoubt.Core.Statics;
+using Redoubt.Core.Dynamics;
 using System.Windows.Input;
 
 namespace Redoubt.Core.ViewModels
@@ -22,7 +22,7 @@ namespace Redoubt.Core.ViewModels
             get => 
                 new MvxCommand(() =>
                 {
-                    State.Instance.Load();
+                    new State().Load();
                     ShowViewModel<HomeViewModel>();
                     Close(this);
                 });

@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Redoubt.Core.Statics
+namespace Redoubt.Core.Dynamics
 {
     public class Stats
     {

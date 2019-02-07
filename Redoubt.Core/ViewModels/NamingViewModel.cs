@@ -1,5 +1,5 @@
 ﻿using MvvmCross.Core.ViewModels;
-using Redoubt.Core.Statics;
+using Redoubt.Core.Dynamics;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Input;
@@ -20,7 +20,7 @@ namespace Redoubt.Core.ViewModels
                         App.Player = new Player(Name);
                         for (int x = 0; x < 10; x++)
                             await Task.Run(() => new Thread(() => App.Player.Inventory.Add(new Item())).Start());
-                        State.Instance.Save();
+                        new State().Save();
                         ShowViewModel<HomeViewModel>();
                     }
                     Close(this);
