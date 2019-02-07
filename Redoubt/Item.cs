@@ -247,7 +247,7 @@ namespace Redoubt
         {
             var tmp = new List<KeyValuePair<Attribute, int>>();
             for (int x = 0; x < (int)Rarity; x++)
-                tmp.Add(new KeyValuePair<Attribute, int>((Attribute)Random.Next(0, Enum.GetNames(typeof(Attribute)).Length), new Random().Next(1, 10)));
+                tmp.Add(new KeyValuePair<Attribute, int>((Attribute)Random.Next(0, Enum.GetNames(typeof(Attribute)).Length), Random.Next(1, 10)));
             return tmp;
         }
 
@@ -255,7 +255,7 @@ namespace Redoubt
         {
             var tmp = new List<KeyValuePair<Modifier, int>>();
             for (int x = 0; x < (int)Quality; x++)
-                tmp.Add(new KeyValuePair<Modifier, int>((Modifier)Random.Next(0, Enum.GetNames(typeof(Modifier)).Length), new Random().Next(1, 4)));
+                tmp.Add(new KeyValuePair<Modifier, int>((Modifier)Random.Next(0, Enum.GetNames(typeof(Modifier)).Length), Random.Next(1, 4)));
             return tmp;
         }
     }
