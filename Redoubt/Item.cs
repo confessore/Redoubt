@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
@@ -8,9 +9,11 @@ namespace Redoubt
     public class Item
     {
         Random Random { get; set; }
+
         public Item()
         {
             Random = new Random(DateTime.UtcNow.Millisecond * Thread.CurrentThread.ManagedThreadId);
+            Guid = Guid.NewGuid();
             Quality = (Quality)Random.Next(Enum.GetNames(typeof(Quality)).Length);
             Rarity = (Rarity)Random.Next(Enum.GetNames(typeof(Quality)).Length);
             Slot = (Slot)Random.Next(Enum.GetNames(typeof(Quality)).Length);
@@ -31,13 +34,16 @@ namespace Redoubt
             Mitigate = ModifierSum(Modifier.MITIGATE);
         }
 
-        public Item(Quality quality, Rarity rarity, Slot slot)
+        [JsonConstructor]
+        public Item(Guid guid, Quality quality, Rarity rarity, Slot slot,
+            List<KeyValuePair<Attribute, int>> rawAttributes, List<KeyValuePair<Modifier, int>> rawModifiers)
         {
+            Guid = guid;
             Quality = quality;
             Rarity = rarity;
             Slot = slot;
-            RawAttributes = GenerateRawAttributes();
-            RawModifiers = GenerateRawModifiers();
+            RawAttributes = rawAttributes;
+            RawModifiers = rawModifiers;
             Attributes = CombineRawAttributes();
             Modifiers = CombineRawModifiers();
             Name = GenerateName();
@@ -53,6 +59,7 @@ namespace Redoubt
             Mitigate = ModifierSum(Modifier.MITIGATE);
         }
 
+        public Guid Guid { get; set; }
         public string Name { get; set; }
         public Quality Quality { get; set; }
         public Rarity Rarity { get; set; }

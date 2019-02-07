@@ -8,7 +8,8 @@ namespace Redoubt.Core.ViewModels
         public ICommand NavBack { get => new MvxCommand(() => Close(this)); }
         public ICommand NavigateExplore { get => new MvxCommand(() => ShowViewModel<ExploreViewModel>()); }
         public ICommand NavigateShop { get => new MvxCommand(() => ShowViewModel<ShopViewModel>()); }
-        public ICommand NavigateInventory{ get => new MvxCommand(() => ShowViewModel<InventoryViewModel>()); }
+        public ICommand NavigateInventory { get => new MvxCommand(() => ShowViewModel<InventoryViewModel>()); }
+        public ICommand NavigateEquipment { get => new MvxCommand(() => ShowViewModel<EquipmentViewModel>()); }
         public ICommand NavigateStats { get => new MvxCommand(() => ShowViewModel<StatsViewModel>()); }
     }
 }

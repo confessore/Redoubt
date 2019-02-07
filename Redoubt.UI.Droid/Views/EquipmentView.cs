@@ -4,12 +4,12 @@ using System;
 
 namespace Redoubt.UI.Droid.Views
 {
-    [Activity(Label = "InventoryView")]
-    public class InventoryView : MvxActivity
+    [Activity(Label = "EquipmentView")]
+    public class EquipmentView : MvxActivity
     {
         protected override void OnViewModelSet()
         {
-            SetContentView(Resource.Layout.View_Inventory);
+            SetContentView(Resource.Layout.View_Equipment);
         }
 
         protected override void OnDestroy()

@@ -3,12 +3,12 @@ using MvvmCross.Droid.Views;
 
 namespace Redoubt.UI.Droid.Views
 {
-    [Activity(Label = "InspectItemView")]
-    public class InspectItemView : MvxActivity
+    [Activity(Label = "Equipment Inspect")]
+    public class EquipmentInspectView : MvxActivity
     {
         protected override void OnViewModelSet()
         {
-            SetContentView(Resource.Layout.View_InspectItem);
+            SetContentView(Resource.Layout.View_EquipmentInspect);
         }
     }
 }
