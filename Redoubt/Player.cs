@@ -26,8 +26,8 @@ namespace Redoubt
             Crit = 5;
             Avoid = 5;
             Mitigate = 5;
-            CurrentHealth = Vitality * 10;
-            CurrentSpirit = Intellect * 10;
+            Health = Vitality * 15;
+            Spirit = Intellect * 15;
             Equipment = new List<Item>();
             Inventory = new List<Item>();
         }
@@ -36,8 +36,8 @@ namespace Redoubt
         public string Name { get; set; }
         public int Experience { get; set; }
         public int Level { get; set; }
-        public int CurrentHealth { get; set; }
-        public int CurrentSpirit { get; set; }
+        public int Health { get; set; }
+        public int Spirit { get; set; }
         public int Strength { get; set; }
         public int Dexterity { get; set; }
         public int Intellect { get; set; }

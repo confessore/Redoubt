@@ -51,7 +51,7 @@ namespace Redoubt.Core.ViewModels
             }
         }
 
-        public int CurrentHealth
+        /*public int CurrentHealth
         {
             private get
             {
@@ -67,21 +67,11 @@ namespace Redoubt.Core.ViewModels
                 CurrentHealth = value;
                 RaisePropertyChanged(() => CurrentHealth);
             }
-        }
+        }*/
 
-        public int TotalHealth
+        public int Health
         {
-            private get => Vitality * 10;
-            set
-            {
-                TotalHealth = value;
-                RaisePropertyChanged(() => TotalHealth);
-            }
-        }
-
-        public string Health
-        {
-            private get => $"{CurrentHealth} / {TotalHealth}";
+            private get => Vitality * 15;
             set
             {
                 Health = value;
@@ -89,7 +79,7 @@ namespace Redoubt.Core.ViewModels
             }
         }
 
-        public int CurrentSpirit
+        /*public int CurrentSpirit
         {
             private get
             {
@@ -105,21 +95,11 @@ namespace Redoubt.Core.ViewModels
                 CurrentHealth = value;
                 RaisePropertyChanged(() => CurrentHealth);
             }
-        }
+        }*/
 
-        public int TotalSpirit
+        public int Spirit
         {
-            private get => Intellect * 10;
-            set
-            {
-                TotalSpirit = value;
-                RaisePropertyChanged(() => TotalSpirit);
-            }
-        }
-
-        public string Spirit
-        {
-            private get => $"{CurrentSpirit} / {TotalSpirit}";
+            private get => Intellect * 15;
             set
             {
                 Spirit = value;
