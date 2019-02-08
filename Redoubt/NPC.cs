@@ -3,14 +3,9 @@ using System.Collections.Generic;
 
 namespace Redoubt
 {
-    public class Player
+    public class NPC
     {
-        public Player()
-        {
-
-        }
-
-        public Player(string name)
+        public NPC(string name)
         {
             Guid = Guid.NewGuid();
             Living = true;

@@ -402,50 +402,56 @@ namespace Redoubt.UI.Droid
 			// aapt resource value: 0x7f050022
 			public const int attack = 2131034146;
 			
-			// aapt resource value: 0x7f050024
-			public const int auction = 2131034148;
+			// aapt resource value: 0x7f050026
+			public const int auction = 2131034150;
 			
-			// aapt resource value: 0x7f05003b
-			public const int avoid = 2131034171;
+			// aapt resource value: 0x7f05003d
+			public const int avoid = 2131034173;
 			
 			// aapt resource value: 0x7f05000a
 			public const int blocking = 2131034122;
 			
+			// aapt resource value: 0x7f050023
+			public const int cast = 2131034147;
+			
 			// aapt resource value: 0x7f050019
 			public const int chronometer = 2131034137;
 			
-			// aapt resource value: 0x7f05003a
-			public const int crit = 2131034170;
+			// aapt resource value: 0x7f050024
+			public const int consumable = 2131034148;
 			
-			// aapt resource value: 0x7f050035
-			public const int dexterity = 2131034165;
+			// aapt resource value: 0x7f05003c
+			public const int crit = 2131034172;
+			
+			// aapt resource value: 0x7f050037
+			public const int dexterity = 2131034167;
 			
 			// aapt resource value: 0x7f050020
 			public const int enchant = 2131034144;
 			
-			// aapt resource value: 0x7f05002a
-			public const int equip_item = 2131034154;
+			// aapt resource value: 0x7f05002c
+			public const int equip_item = 2131034156;
 			
-			// aapt resource value: 0x7f050027
-			public const int equipment = 2131034151;
+			// aapt resource value: 0x7f050029
+			public const int equipment = 2131034153;
 			
-			// aapt resource value: 0x7f050031
-			public const int experience = 2131034161;
+			// aapt resource value: 0x7f050034
+			public const int experience = 2131034164;
 			
-			// aapt resource value: 0x7f050023
-			public const int explore = 2131034147;
+			// aapt resource value: 0x7f050025
+			public const int explore = 2131034149;
 			
 			// aapt resource value: 0x7f05000b
 			public const int forever = 2131034123;
 			
-			// aapt resource value: 0x7f05002f
-			public const int guid = 2131034159;
-			
 			// aapt resource value: 0x7f050032
-			public const int health = 2131034162;
+			public const int guid = 2131034162;
 			
-			// aapt resource value: 0x7f050039
-			public const int hit = 2131034169;
+			// aapt resource value: 0x7f050021
+			public const int health = 2131034145;
+			
+			// aapt resource value: 0x7f05003b
+			public const int hit = 2131034171;
 			
 			// aapt resource value: 0x7f050012
 			public const int icon = 2131034130;
@@ -456,11 +462,11 @@ namespace Redoubt.UI.Droid
 			// aapt resource value: 0x7f050015
 			public const int info = 2131034133;
 			
-			// aapt resource value: 0x7f050036
-			public const int intellect = 2131034166;
+			// aapt resource value: 0x7f050038
+			public const int intellect = 2131034168;
 			
-			// aapt resource value: 0x7f050026
-			public const int inventory = 2131034150;
+			// aapt resource value: 0x7f050028
+			public const int inventory = 2131034152;
 			
 			// aapt resource value: 0x7f05000c
 			public const int italic = 2131034124;
@@ -468,11 +474,11 @@ namespace Redoubt.UI.Droid
 			// aapt resource value: 0x7f050000
 			public const int item_touch_helper_previous_elevation = 2131034112;
 			
-			// aapt resource value: 0x7f050029
-			public const int leaderboards = 2131034153;
+			// aapt resource value: 0x7f05002b
+			public const int leaderboards = 2131034155;
 			
-			// aapt resource value: 0x7f050030
-			public const int level = 2131034160;
+			// aapt resource value: 0x7f050033
+			public const int level = 2131034163;
 			
 			// aapt resource value: 0x7f050001
 			public const int line1 = 2131034113;
@@ -480,20 +486,20 @@ namespace Redoubt.UI.Droid
 			// aapt resource value: 0x7f050002
 			public const int line3 = 2131034114;
 			
+			// aapt resource value: 0x7f05002f
+			public const int load_game = 2131034159;
+			
 			// aapt resource value: 0x7f05002d
-			public const int load_game = 2131034157;
+			public const int login = 2131034157;
 			
-			// aapt resource value: 0x7f05002b
-			public const int login = 2131034155;
+			// aapt resource value: 0x7f05003e
+			public const int mitigate = 2131034174;
 			
-			// aapt resource value: 0x7f05003c
-			public const int mitigate = 2131034172;
+			// aapt resource value: 0x7f050030
+			public const int name = 2131034160;
 			
-			// aapt resource value: 0x7f050021
-			public const int name = 2131034145;
-			
-			// aapt resource value: 0x7f05002c
-			public const int new_game = 2131034156;
+			// aapt resource value: 0x7f05002e
+			public const int new_game = 2131034158;
 			
 			// aapt resource value: 0x7f05000d
 			public const int normal = 2131034125;
@@ -516,20 +522,20 @@ namespace Redoubt.UI.Droid
 			// aapt resource value: 0x7f050014
 			public const int right_side = 2131034132;
 			
-			// aapt resource value: 0x7f05002e
-			public const int save = 2131034158;
+			// aapt resource value: 0x7f050031
+			public const int save = 2131034161;
 			
-			// aapt resource value: 0x7f050025
-			public const int shop = 2131034149;
+			// aapt resource value: 0x7f050027
+			public const int shop = 2131034151;
 			
-			// aapt resource value: 0x7f050033
-			public const int spirit = 2131034163;
+			// aapt resource value: 0x7f050035
+			public const int spirit = 2131034165;
 			
-			// aapt resource value: 0x7f050028
-			public const int stats = 2131034152;
+			// aapt resource value: 0x7f05002a
+			public const int stats = 2131034154;
 			
-			// aapt resource value: 0x7f050034
-			public const int strength = 2131034164;
+			// aapt resource value: 0x7f050036
+			public const int strength = 2131034166;
 			
 			// aapt resource value: 0x7f050003
 			public const int tag_transition_group = 2131034115;
@@ -552,11 +558,11 @@ namespace Redoubt.UI.Droid
 			// aapt resource value: 0x7f05001f
 			public const int upgrade = 2131034143;
 			
-			// aapt resource value: 0x7f050037
-			public const int vitality = 2131034167;
+			// aapt resource value: 0x7f050039
+			public const int vitality = 2131034169;
 			
-			// aapt resource value: 0x7f050038
-			public const int will = 2131034168;
+			// aapt resource value: 0x7f05003a
+			public const int will = 2131034170;
 			
 			static Id()
 			{
