@@ -1,6 +1,10 @@
-﻿using Redoubt.Extensions;
+﻿using Redoubt.Enums;
+using Redoubt.Extensions;
 using Redoubt.Models;
 using Redoubt.Pages;
+using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using Xamarin.Forms;
 
@@ -19,6 +23,8 @@ namespace Redoubt.ViewModels
             {
                 Inventory.Add(arg);
             });
+            foreach (var slot in Enum.GetNames(typeof(Slot)))
+                Slots.Add(slot);
         }
 
         ObservableCollection<Item> inventory;
@@ -31,5 +37,8 @@ namespace Redoubt.ViewModels
                 OnPropertyChanged();
             }
         }
+
+
+        public List<string> Slots { get; set; } = new List<string>();
     }
 }
