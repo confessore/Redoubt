@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:cardView="clr-namespace:CardView;assembly=CardView"
+             mc:Ignorable="d"
+             x:Class="Redoubt.Pages.InventoryPage">
+
+    <NavigationPage.TitleView>
+        <SearchBar
+            x:Name="Search"
+            Placeholder="Search"
+            SearchCommandParameter="{Binding Text, Source={x:Reference Search}}"
+            SearchCommand="{Binding SearchInmatesCommand}"/>
+    </NavigationPage.TitleView>
+    <ListView
+        RowHeight="200"
+        ItemsSource="{Binding Inventory}"
+        ItemTapped="OnItemTapped">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout>
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="{Binding Name}" FontAttributes="Bold" FontSize="Large"/>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                        <StackLayout 
+                            Orientation="Horizontal"
+                            Spacing="20">
+                            <Label HorizontalTextAlignment="Start">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="Strength: " FontAttributes="Bold" FontSize="Medium"/>
+                                        <Span Text="{Binding Strength}" FontAttributes="Bold" FontSize="Medium"/>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                            <Label HorizontalTextAlignment="Center">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="Attack: " FontAttributes="Bold" FontSize="Medium"/>
+                                        <Span Text="{Binding Attack}" FontAttributes="Bold" FontSize="Medium"/>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                        </StackLayout>
+                        <StackLayout 
+                            Orientation="Horizontal"
+                            Spacing="20">
+                            <Label
+                                HorizontalTextAlignment="Start">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="Dexterity: " FontAttributes="Bold" FontSize="Medium"/>
+                                        <Span Text="{Binding Dexterity}" FontAttributes="Bold" FontSize="Medium"/>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                            <Label
+                                HorizontalTextAlignment="Center">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="Hit: " FontAttributes="Bold" FontSize="Medium"/>
+                                        <Span Text="{Binding Hit}" FontAttributes="Bold" FontSize="Medium"/>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                            <Label
+                                HorizontalTextAlignment="End">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="Crit: " FontAttributes="Bold" FontSize="Medium"/>
+                                        <Span Text="{Binding Crit}" FontAttributes="Bold" FontSize="Medium"/>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                        </StackLayout>
+                        <StackLayout 
+                            Orientation="Horizontal"
+                            Spacing="20">
+                            <Label
+                                HorizontalTextAlignment="Start">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="Intellect: " FontAttributes="Bold" FontSize="Medium"/>
+                                        <Span Text="{Binding Intellect}" FontAttributes="Bold" FontSize="Medium"/>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                            <Label
+                                HorizontalTextAlignment="Center">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="Will: " FontAttributes="Bold" FontSize="Medium"/>
+                                        <Span Text="{Binding Will}" FontAttributes="Bold" FontSize="Medium"/>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                        </StackLayout>
+                        <StackLayout 
+                            Orientation="Horizontal"
+                            Spacing="20">
+                            <Label
+                                HorizontalTextAlignment="Start">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="Vitality: " FontAttributes="Bold" FontSize="Medium"/>
+                                        <Span Text="{Binding Vitality}" FontAttributes="Bold" FontSize="Medium"/>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                            <Label
+                                HorizontalTextAlignment="Center">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="Avoid: " FontAttributes="Bold" FontSize="Medium"/>
+                                        <Span Text="{Binding Avoid}" FontAttributes="Bold" FontSize="Medium"/>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                            <Label
+                                HorizontalTextAlignment="End">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="Mitigate: " FontAttributes="Bold" FontSize="Medium"/>
+                                        <Span Text="{Binding Mitigate}" FontAttributes="Bold" FontSize="Medium"/>
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+                        </StackLayout>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

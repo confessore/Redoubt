@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Redoubt.Pages.InventoryDetailPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label>
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="{Binding Item.Name}" FontAttributes="Bold" FontSize="Large"/>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <StackLayout 
+                Orientation="Horizontal"
+                Spacing="20">
+                <Label HorizontalTextAlignment="Start">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Strength: " FontAttributes="Bold" FontSize="Medium"/>
+                            <Span Text="{Binding Item.Strength}" FontAttributes="Bold" FontSize="Medium"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+                <Label HorizontalTextAlignment="Center">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Attack: " FontAttributes="Bold" FontSize="Medium"/>
+                            <Span Text="{Binding Item.Attack}" FontAttributes="Bold" FontSize="Medium"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            </StackLayout>
+            <StackLayout 
+                Orientation="Horizontal"
+                Spacing="20">
+                <Label
+                    HorizontalTextAlignment="Start">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Dexterity: " FontAttributes="Bold" FontSize="Medium"/>
+                            <Span Text="{Binding Item.Dexterity}" FontAttributes="Bold" FontSize="Medium"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+                <Label
+                    HorizontalTextAlignment="Center">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Hit: " FontAttributes="Bold" FontSize="Medium"/>
+                            <Span Text="{Binding Item.Hit}" FontAttributes="Bold" FontSize="Medium"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+                <Label
+                    HorizontalTextAlignment="End">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Crit: " FontAttributes="Bold" FontSize="Medium"/>
+                            <Span Text="{Binding Item.Crit}" FontAttributes="Bold" FontSize="Medium"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            </StackLayout>
+            <StackLayout 
+                Orientation="Horizontal"
+                Spacing="20">
+                <Label
+                    HorizontalTextAlignment="Start">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Intellect: " FontAttributes="Bold" FontSize="Medium"/>
+                            <Span Text="{Binding Item.Intellect}" FontAttributes="Bold" FontSize="Medium"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+                <Label
+                    HorizontalTextAlignment="Center">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Will: " FontAttributes="Bold" FontSize="Medium"/>
+                            <Span Text="{Binding Item.Will}" FontAttributes="Bold" FontSize="Medium"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            </StackLayout>
+            <StackLayout 
+                Orientation="Horizontal"
+                Spacing="20">
+                <Label
+                    HorizontalTextAlignment="Start">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Vitality: " FontAttributes="Bold" FontSize="Medium"/>
+                            <Span Text="{Binding Item.Vitality}" FontAttributes="Bold" FontSize="Medium"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+                <Label
+                    HorizontalTextAlignment="Center">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Avoid: " FontAttributes="Bold" FontSize="Medium"/>
+                            <Span Text="{Binding Item.Avoid}" FontAttributes="Bold" FontSize="Medium"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+                <Label
+                    HorizontalTextAlignment="End">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Mitigate: " FontAttributes="Bold" FontSize="Medium"/>
+                            <Span Text="{Binding Item.Mitigate}" FontAttributes="Bold" FontSize="Medium"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            </StackLayout>
+            <Button 
+                Text="Equip"
+                Clicked="OnEquip"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+    
