@@ -15,7 +15,7 @@ namespace Redoubt.Pages
         public InventoryPage()
         {
             InitializeComponent();
-            NavigationPage.SetHasNavigationBar(this, true);
+            NavigationPage.SetHasNavigationBar(this, false);
             BindingContext = ViewModel = new InventoryViewModel();
             ViewModel.Navigation = Navigation;
         }
@@ -41,6 +41,7 @@ namespace Redoubt.Pages
         void OnFilterCleared(object sender, EventArgs args)
         {
             ViewModel.Inventory = App.Player.Inventory;
+            ViewModel.SelectedIndex = -1;
         }
     }
 }

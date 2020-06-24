@@ -6,12 +6,11 @@
              mc:Ignorable="d"
              x:Class="Redoubt.Pages.InventoryPage">
 
-    <NavigationPage.TitleView>
+    <StackLayout>
         <Picker
             ItemsSource="{Binding Slots}"
-            SelectedIndexChanged="OnPickerSelectedIndexChanged" />
-    </NavigationPage.TitleView>
-    <StackLayout>
+            SelectedIndexChanged="OnPickerSelectedIndexChanged"
+            SelectedIndex="{Binding SelectedIndex}"/>
         <Button
             Text="Clear Filter"
             Clicked="OnFilterCleared" />

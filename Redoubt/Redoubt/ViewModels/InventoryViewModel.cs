@@ -3,7 +3,6 @@ using Redoubt.Extensions;
 using Redoubt.Models;
 using Redoubt.Pages;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using Xamarin.Forms;
@@ -40,5 +39,16 @@ namespace Redoubt.ViewModels
 
 
         public List<string> Slots { get; set; } = new List<string>();
+
+        int selectedIndex = -1;
+        public int SelectedIndex
+        {
+            get => selectedIndex;
+            set
+            {
+                selectedIndex = value;
+                OnPropertyChanged();
+            }
+        }
     }
 }
